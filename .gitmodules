@@ -1,3 +1,6 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:if025-pm-unpsjb/if025-pm-unpsjb.github.io.git
+[submodule "themes/hugo-theme-techdoc"]
+	path = themes/hugo-theme-techdoc
+	url = git@github.com:thingsym/hugo-theme-techdoc.git
