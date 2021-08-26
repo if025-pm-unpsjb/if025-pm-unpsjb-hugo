@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:if025-pm-unpsjb/if025-pm-unpsjb.github.io.git
