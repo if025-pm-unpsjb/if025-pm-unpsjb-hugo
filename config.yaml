@@ -1,0 +1,11 @@
+baseURL : "if025-pm-unpsjb.github.io"
+languageCode : "en-us"
+title : "Sistemas Embebidos y de Tiempo Real."
+theme : "hugo-theme-techdoc"
+
+metaDataFormat: "yaml"
+
+params:
+    description: "Sitio de la cátedra SETR Puerto Madryn"
+    menu_style: "open-menu" # "open-menu" or "slide-menu" or "" blank is as no sidebar
+
