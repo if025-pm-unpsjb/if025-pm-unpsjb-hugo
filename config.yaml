@@ -1,4 +1,5 @@
-baseURL : "if025-pm-unpsjb.github.io"
+baseURL : "https://if025-pm-unpsjb.github.io/"
+#baseURL : "if025-pm-unpsjb.github.io"
 languageCode : "en-us"
 title : "Sistemas Embebidos y de Tiempo Real."
 theme : "hugo-theme-techdoc"
